@@ -1,3 +1,17 @@
+statsd (0.0.4.23-1) unstable; urgency=low
+
+  * make debian compatible by nuking the upstart config
+
+ -- Richard Clamp <richard.clamp@tagman.com>  Mon, 16 Jul 2012 11:15:00 +0100
+
+statsd (0.0.4.23) unstable; urgency=low
+
+  * upstream release 
+  * $ git describe --tags
+    v0.4.0-23-g0854f72
+
+ -- Richard Clamp <richard.clamp@tagman.com>  Mon, 16 Jul 2012 10:36:00 +0100
+
 statsd (0.0.3) unstable; urgency=low
 
   * removed rdio references from init scripts and config
